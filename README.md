@@ -28,7 +28,7 @@
 #### 项目导航
 1. 亮度向
 -  猪蹄 国内最早的短棒草帽灯珠搭棚魔改方案2017.5 https://www.bilibili.com/video/BV1kx411m7AF
--  刁民 国内最早的短棒贴片灯珠魔改方案2019.3（CL/PL，亮度向，贴片光源）https://www.bilibili.com/video/BV16b411i7gL
+-  刁民 国内最早的短棒贴片灯珠魔改方案2019.3 https://www.bilibili.com/video/BV16b411i7gL
 -  神秘 国内最早的自制类COB灯条方案2019.03（1.0-2.0） https://www.bilibili.com/video/BV1Mb411u7jv/
 
 2. 耐用程度向
