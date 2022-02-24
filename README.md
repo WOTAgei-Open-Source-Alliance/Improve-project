@@ -33,6 +33,8 @@
 -  刁民 KL环氧树脂加固方案（KL，耐用程度向）https://www.bilibili.com/video/BV18b411k7uf
  
 3. 功能向
+-  刁民 基于led单向导电性的双色方案
+-  在PL/CL下面添加开关以达到独立开关和变色功能
 -  神秘 超魔改PL （变色 充电 锂电） https://www.bilibili.com/video/BV1Yb411S76J/
 
 4. 配件
