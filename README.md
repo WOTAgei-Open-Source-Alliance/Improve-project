@@ -16,18 +16,28 @@
 - 基于led单向导电性的双色方案（CL/PL，功能向，草帽光源）
 - 使用镍氢电池的PL充电方案（废弃）
 
+3. 神秘（神秘之影）
+- 国内最早超魔改变色pl，集高亮变色遥控一体，内置锂电池，usb充电，可使用红外/无线/蓝牙遥控，或直接按键控制
+- 基于锂电池和占位筒的锂电池替换超亮魔改pl
+- 自制类cob单色魔改灯条，亮度更高，发光更均匀
+- 自制类rgbcob多色魔改灯条，可实现变色控制，发光更均匀
+- 电光棒Flash Light，简称FL，以手电筒或筒状物为基础，内置锂电池，usb充电，也可使用可替换锂电池，外置充电，使用自制类cob灯条，自制单/双层灯管，可制作单色/变色电光棒
+- 电光剑FL LightSaber，以FL系列为基础，加长灯管灯条，制作单色/变色电光剑
 
 
 #### 项目导航
 1. 亮度向
 -  猪蹄 国内最早的短棒草帽灯珠搭棚魔改方案2017.5 https://www.bilibili.com/video/BV1kx411m7AF
 -  刁民 国内最早的短棒贴片灯珠魔改方案2019.3（CL/PL，亮度向，贴片光源）https://www.bilibili.com/video/BV16b411i7gL
-
+-  神秘 国内最早的自制类COB灯条方案2019.03（1.0-2.0） https://www.bilibili.com/video/BV1Mb411u7jv/
 2. 耐用程度向
 -  刁民 KL环氧树脂加固方案（KL，耐用程度向）https://www.bilibili.com/video/BV18b411k7uf
  
 3. 功能向
-
+-  神秘 超魔改PL （变色 充电 锂电） https://www.bilibili.com/video/BV1Yb411S76J/
 
 4. 配件
 - 刁民 - CL/PL第三方圆形pcb电路板 
+
+5. 展示
+- 神秘 自制FL系列 （短棒FL 光剑FL LightSaber） https://www.bilibili.com/video/BV1434y1q7cJ/
